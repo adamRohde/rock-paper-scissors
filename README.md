@@ -1,12 +1,10 @@
 
 My interpretation of the classic game, rock, paper, scissors.  
 
-Features not finished
- - local storage saving
- - local storage retrieval 
- - speed settings
-
 https://adamrohde.github.io/rock-paper-scissors/
+
+Responsive version can be found here.
+https://adamrohde.github.io/rock-paper-scissors-responsive/
 
 
 ### Image
