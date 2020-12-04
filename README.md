@@ -1,3 +1,4 @@
+# Rock Paper Scissors Game
 
 My interpretation of the classic game, rock, paper, scissors.  
 
@@ -21,3 +22,4 @@ Link to app
 
 
 
+Author - Adam Rohde
